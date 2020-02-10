@@ -1,0 +1,24 @@
+h1 {
+  color:black;
+  text-align: center;
+  font-style: inherit;
+  text-underline-position: below;
+}
+img {
+  text-align: center;
+}
+h2 {
+  font-style: italic;
+  color:white;
+  text-align: center;
+}
+
+  
+p {
+  font: italic;
+  align-self: auto;line-height: normal;
+}
+
+body {
+  background-color:aqua;
+}
